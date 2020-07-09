@@ -18,9 +18,13 @@ Assignments for this course are listed in the week wise form along with link of 
 
 ### Week3
 
-1. Programming Assignment: [Planar data classification with a hidden layer](/Neural-Networks-and-Deep-Learning/Week3/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+1. Programming Assignment: [Planar data classification with a hidden layer](./Neural-Networks-and-Deep-Learning/Week3/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
 
 ### Week4
+
+1. Programming Assignment: [Building your deep neural network: Step by Step](./Neural-Networks-and-Deep-Learning/Week3/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+
+2. Programming Assignment: [Deep Neural Network Application](./Neural-Networks-and-Deep-Learning/Week3/Deep+Neural+Network+-+Application+v8.ipynb)
   
 ## Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
 

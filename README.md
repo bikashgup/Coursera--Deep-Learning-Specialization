@@ -1,6 +1,6 @@
 # Coursera--Deep-Learning-Specialization
 
-The Deep Learning Specilaization course is divided into five separate courses. Here are the names of each courses are listed below along with assignments link.
+The Deep Learning Specilaization course is divided into five separate courses. These courses helps you develop the better understanding of the deep learning knowledge. Here. the names of each courses along with assignments link are listed below. Please don't copy the notebooks code but use it as last resort if nothing comes upon your mind after many times of try.
 
 ## Neural Network and Deep Learning
 
@@ -12,7 +12,7 @@ Assignments for this course are listed in the week wise form along with link of 
 
 ### Week2 
 
-1. Programming Assignment: [LogisticRegression with a Neural Network mindset(./Neural-Networks-and-Deep-Learning/Week2/Logistic_Regression_with_a_Neural_Networ_mindset_v6a.ipynb)
+1. Programming Assignment: [LogisticRegression with a Neural Network mindset](./Neural-Networks-and-Deep-Learning/Week2/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 
 2. Practice Programming Assignment:[Python Basics with numpy](./Neural-Networks-and-Deep-Learning/Week2/Python_Basics_With_Numpy_v3a.ipynb)
 

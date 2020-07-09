@@ -12,7 +12,7 @@ Assignments for this course are listed in the week wise form along with link of 
 
 ### Week2 
 
-1. Programming Assignment: [LogisticRegression with a Neural Network mindset(./Neural-Networks-and-Deep-Learning/Week2/Logistic_Regression_with_a_Neural_Networ_mindset_v6a.ipynb)
+1. Programming Assignment: [LogisticRegression with a Neural Network mindset](./Neural-Networks-and-Deep-Learning/Week2/Logistic_Regression_with_a_Neural_Networ_mindset_v6a.ipynb)
 
 2. Practice Programming Assignment:[Python Basics with numpy](./Neural-Networks-and-Deep-Learning/Week2/Python_Basics_With_Numpy_v3a.ipynb)
 

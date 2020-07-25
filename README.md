@@ -28,6 +28,19 @@ Assignments for this course are listed in the week wise form along with link of 
   
 ## Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
 
+
+### Week1
+
+ 1. Programming Assignment: [Initialization](./Improving-Deep-Neural-Networks/Week1/Initialization.ipynb)
+
+ 2. Programming Assignment: [Regularization](./Improving-Deep-Neural-Networks/Week1/Regularization_v2a.ipynb)
+
+ 3. Programming Assignment: [Gradient Checking](./Improving-Deep-Neural-Networks/Week1/Gradient+Checking+v1.ipynb)
+
+ ### Week2
+
+ ### Week3
+
 ## Structuring Machine Learning Projects
 
 ## Convolutional Neural Networks

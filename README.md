@@ -39,6 +39,8 @@ Assignments for this course are listed in the week wise form along with link of 
 
  ### Week2
 
+ 1. Programming Assignment: [Optimization](./Improving-Deep-Neural-Networks/Week2/Optimization_methods_v1b.ipynb)
+
  ### Week3
 
 ## Structuring Machine Learning Projects

@@ -6,21 +6,21 @@ The Deep Learning Specilaization course is divided into five separate courses. T
 
 Assignments for this course are listed in the week wise form along with link of each assignments.
 
-### Week1
+### Week1: [Introduction to deep learning](./Neural-Networks-and-Deep-Learning/Week1)
 
  No assignments
 
-### Week2 
+### Week2: [Neural Networks Basics](./Neural-Networks-and-Deep-Learning/Week2)
 
 1. Programming Assignment: [LogisticRegression with a Neural Network mindset](./Neural-Networks-and-Deep-Learning/Week2/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 
 2. Practice Programming Assignment:[Python Basics with numpy](./Neural-Networks-and-Deep-Learning/Week2/Python_Basics_With_Numpy_v3a.ipynb)
 
-### Week3
+### Week3: [Shallow neural networks](./Neural-Networks-and-Deep-Learning/Week3)
 
 1. Programming Assignment: [Planar data classification with a hidden layer](./Neural-Networks-and-Deep-Learning/Week3/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
 
-### Week4
+### Week4: [Deep Neural Networks](./Neural-Networks-and-Deep-Learning/Week4)
 
 1. Programming Assignment: [Building your deep neural network: Step by Step](./Neural-Networks-and-Deep-Learning/Week4/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 
@@ -29,7 +29,7 @@ Assignments for this course are listed in the week wise form along with link of 
 ## Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
 
 
-### Week1
+### Week1: [Practical aspects of Deep Learning](./Improving-Deep-Neural-Networks/Week1)
 
  1. Programming Assignment: [Initialization](./Improving-Deep-Neural-Networks/Week1/Initialization.ipynb)
 
@@ -37,16 +37,46 @@ Assignments for this course are listed in the week wise form along with link of 
 
  3. Programming Assignment: [Gradient Checking](./Improving-Deep-Neural-Networks/Week1/Gradient+Checking+v1.ipynb)
 
- ### Week2
+ ### Week2: [Optimization algorithms](./Improving-Deep-Neural-Networks/Week2)
 
  1. Programming Assignment: [Optimization](./Improving-Deep-Neural-Networks/Week2/Optimization_methods_v1b.ipynb)
 
- ### Week3
+ ### Week3: [Hyperparameter tuning, Batch Normalization and Programming Frameworks](./Improving-Deep-Neural-Networks/Week3)
+
+ 1. Programming Assignment: [Tensorflow](./Improving-Deep-Neural-Networks/Week3/TensorFlow_Tutorial_v3b.ipynb)
 
 ## Structuring Machine Learning Projects
 
+### Week1: [ML Strategy (1)](./Structuring-Machine-Learning-Projects/Week1)
+
+ No Asssigments
+
+### Week2: [ML Strategy (2)](./Structuring-Machine-Learning-Projects/Week2)
+
+ No Asssigments
+
 ## Convolutional Neural Networks
+
+### Week1: [Foundations of Convolutional Neural Networks](./Convolutional-Neural-Networks/Week1)
+
+1. Programming Assignment: [Convolutional Model: step by step](./Convolutional-Neural-Networks/Week1/Convolution_model_Step_by_Step_v2a.ipynb)
+
+2. Programming Assignment: [Convolutional model: application](./Convolutional-Neural-Networks/Week1/Convolution_model_Application_v1a.ipynb)
+
+### Week2: [Deep convolutional models: case studies](./Convolutional-Neural-Networks/Week2)
+
+1. [Keras Tutorial (not graded)](./Convolutional-Neural-Networks/Week2/Keras_Tutorial_v2a.ipynb)
+
+2. Programming Assignment: [Residual Networks](./Convolutional-Neural-Networks/Week2/Residual_Networks_v2a.ipynb)
+
+### Week3: [Object detection](./Convolutional-Neural-Networks/Week3)
+
+### Week4: [Special applications: Face recognition & Neural style transfer](./Convolutional-Neural-Networks/Week4)
 
 ## Sequence Models
     
+### Week1: [Recurrent Neural Networks](./Sequence-Models/Week1)
 
+### Week2: [Natural Language Processing & Word Embeddings](./Sequence-Models/Week2)
+
+### Week3: [Sequence models & Attention mechanism](./Sequence-Models/Week3)

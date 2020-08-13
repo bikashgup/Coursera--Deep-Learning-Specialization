@@ -71,6 +71,8 @@ Assignments for this course are listed in the week wise form along with link of 
 
 ### Week3: [Object detection](./Convolutional-Neural-Networks/Week3)
 
+1. Programming Assignment: [Car detection with YOLO](./Convolutional-Neural-Networks/Week3/Autonomous_driving_application_Car_detection_v3a.ipynb)
+
 ### Week4: [Special applications: Face recognition & Neural style transfer](./Convolutional-Neural-Networks/Week4)
 
 ## Sequence Models

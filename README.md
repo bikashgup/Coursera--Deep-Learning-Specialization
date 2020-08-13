@@ -79,6 +79,16 @@ Assignments for this course are listed in the week wise form along with link of 
     
 ### Week1: [Recurrent Neural Networks](./Sequence-Models/Week1)
 
+1. Programming Assignment: [Building a recurrent neural network - step by step](./Sequence-Models/Week1/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb)
+
+2. Programming Assignment: [Dinosaur Island - Character-Level Language Modeling](./Sequence-Models/Week1/Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb)
+
+3. Programming Assignment: [Jazz improvisation with LSTM](./Sequence-Models/Week1/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
+
 ### Week2: [Natural Language Processing & Word Embeddings](./Sequence-Models/Week2)
+
+1. Programming Assignment: [Operations on word vectors - Debiasing](./Sequence-Models/Week2/Operations_on_word_vectors_v2a.ipynb)
+
+2. Programming Assignment: [Emojify](./Sequence-Models/Week2/Emojify_v2a.ipynb)
 
 ### Week3: [Sequence models & Attention mechanism](./Sequence-Models/Week3)
